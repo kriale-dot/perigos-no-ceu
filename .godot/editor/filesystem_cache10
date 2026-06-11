@@ -1,0 +1,23 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1781197083
+icon.svg::CompressedTexture2D::8133003971921843870::1781178668::1781178674::1::::<><><>0<>0<>e96a7cffcc99afd675df59e6bcac7cd2<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets-do-curso-primeiro-jogo-na-godot-4-main/::1781196804
+::res://assets-do-curso-primeiro-jogo-na-godot-4-main/assets-do-curso-primeiro-jogo-na-godot-4-main/::1781197083
+Créditos dos Assets.txt::TextFile::-1::1781196804::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1781196804::0::1::::<><><>0<>0<><>::
+::res://font/::1781197042
+BalsamiqSans-Bold.ttf::FontFile::2757716614846941648::1781196804::1781197083::1::::<><><>0<>0<>c103937eac3c92e57c78ff9298b767a9<>res://.godot/imported/BalsamiqSans-Bold.ttf-3cc11d5b68ab73e6b3d77fa6a2cdc06e.fontdata::
+::res://sons/::1781197042
+Música de Fundo.mp3::AudioStreamMP3::8354564679490870550::1781196804::1781197083::1::::<><><>0<>0<>6e6c400b9bec1ac61090c976f3e57533<>res://.godot/imported/Música de Fundo.mp3-3c01e40ab1866881525c37332dca1992.mp3str::
+Som da Moeda.mp3::AudioStreamMP3::60386608793276250::1781196804::1781197083::1::::<><><>0<>0<>da6da0befc5a0101a6758db1cc0fde2b<>res://.godot/imported/Som da Moeda.mp3-bac3c30bb5a3cbecb76a4ac01f42309f.mp3str::
+Som de Game Over.wav::AudioStreamWAV::6018415802642257009::1781196804::1781197083::1::::<><><>0<>0<>eae4fde75a05ba5c3cae8f0d274d5e8a<>res://.godot/imported/Som de Game Over.wav-6a78e3d38558e22aada5c080b496ae3a.sample::
+::res://sprites/::1781196804
+::res://sprites/jogador/::1781197042
+jogador_andando_01.png::CompressedTexture2D::487979345061566513::1781196804::1781197083::1::::<><><>0<>0<>09dc1aadc1ca22949eb68a4b84217aee<>res://.godot/imported/jogador_andando_01.png-4191a6aee6fd5d7c7f4e47d759f45e8a.ctex::
+jogador_andando_02.png::CompressedTexture2D::8629243255443442411::1781196804::1781197083::1::::<><><>0<>0<>a8df23dbeaa1dc9d90725e3347b3d0c2<>res://.godot/imported/jogador_andando_02.png-1a014e6805e6dfe68fc387dc5d7c5dec.ctex::
+jogador_parado.png::CompressedTexture2D::8556577766379396271::1781196804::1781197083::1::::<><><>0<>0<>c5a7027d44937b59f295e5f2d970fc1c<>res://.godot/imported/jogador_parado.png-538222e13096229d429bf32a48d52699.ctex::
+::res://sprites/objetos/::1781197042
+background.png::CompressedTexture2D::4189552944603674211::1781196804::1781197083::1::::<><><>0<>0<>3e3784390ed31fc188116da0abf0beca<>res://.godot/imported/background.png-4865304b66e8ae6234ea32eea0abcf3e.ctex::
+diamante.png::CompressedTexture2D::3466281488942621407::1781196804::1781197083::1::::<><><>0<>0<>3c64e53c7ca9800ef9940f21038136cf<>res://.godot/imported/diamante.png-4cdd0e995e73e3429bf5468d71adf3f9.ctex::
+piso.png::CompressedTexture2D::3686439011333024904::1781196804::1781197083::1::::<><><>0<>0<>4f8ee07a21b8d36fa1b75df40ac4331c<>res://.godot/imported/piso.png-18cc6d44e6d7a10b000ef9a8938a4fc2.ctex::
+serra.png::CompressedTexture2D::1188767033701244462::1781196804::1781197083::1::::<><><>0<>0<>109aac45334b10e012cf49dd86c19447<>res://.godot/imported/serra.png-b178e7583ab1731c791d622097f79d81.ctex::
