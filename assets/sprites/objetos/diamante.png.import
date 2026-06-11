@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0xplbtyudh20"
-path="res://.godot/imported/background.png-4865304b66e8ae6234ea32eea0abcf3e.ctex"
+uid="uid://bpndfdbr52v40"
+path="res://.godot/imported/diamante.png-51147a2ea513b7952992c3e504eb66d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/objetos/background.png"
-dest_files=["res://.godot/imported/background.png-4865304b66e8ae6234ea32eea0abcf3e.ctex"]
+source_file="res://assets/sprites/objetos/diamante.png"
+dest_files=["res://.godot/imported/diamante.png-51147a2ea513b7952992c3e504eb66d4.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://g7m7iqtn0eub"
-path="res://.godot/imported/jogador_andando_01.png-4191a6aee6fd5d7c7f4e47d759f45e8a.ctex"
+uid="uid://dt54t6buc6e3p"
+path="res://.godot/imported/jogador_parado.png-931a7d698c58160227dcf7802055c435.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/jogador/jogador_andando_01.png"
-dest_files=["res://.godot/imported/jogador_andando_01.png-4191a6aee6fd5d7c7f4e47d759f45e8a.ctex"]
+source_file="res://assets/sprites/jogador/jogador_parado.png"
+dest_files=["res://.godot/imported/jogador_parado.png-931a7d698c58160227dcf7802055c435.ctex"]
 
 [params]
 

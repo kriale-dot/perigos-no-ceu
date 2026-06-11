@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://q6324gjv05hq"
-path="res://.godot/imported/serra.png-b178e7583ab1731c791d622097f79d81.ctex"
+uid="uid://g7m7iqtn0eub"
+path="res://.godot/imported/jogador_andando_01.png-6650d76433975454f3c3af344fdba446.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/objetos/serra.png"
-dest_files=["res://.godot/imported/serra.png-b178e7583ab1731c791d622097f79d81.ctex"]
+source_file="res://assets/sprites/jogador/jogador_andando_01.png"
+dest_files=["res://.godot/imported/jogador_andando_01.png-6650d76433975454f3c3af344fdba446.ctex"]
 
 [params]
 

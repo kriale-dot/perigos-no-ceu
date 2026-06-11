@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bsr0d2m7kbevg"
-path="res://.godot/imported/piso.png-18cc6d44e6d7a10b000ef9a8938a4fc2.ctex"
+uid="uid://du7cm1jj6mxc2"
+path="res://.godot/imported/jogador_andando_02.png-b9291221cf3a0f664b492f0ee879a9bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/objetos/piso.png"
-dest_files=["res://.godot/imported/piso.png-18cc6d44e6d7a10b000ef9a8938a4fc2.ctex"]
+source_file="res://assets/sprites/jogador/jogador_andando_02.png"
+dest_files=["res://.godot/imported/jogador_andando_02.png-b9291221cf3a0f664b492f0ee879a9bd.ctex"]
 
 [params]
 

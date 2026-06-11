@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cr0mot5flmi2l"
-path="res://.godot/imported/Som de Game Over.wav-6a78e3d38558e22aada5c080b496ae3a.sample"
+path="res://.godot/imported/Som de Game Over.wav-4c568d6b9843df795b55fc50ec6ed274.sample"
 
 [deps]
 
-source_file="res://sons/Som de Game Over.wav"
-dest_files=["res://.godot/imported/Som de Game Over.wav-6a78e3d38558e22aada5c080b496ae3a.sample"]
+source_file="res://assets/sons/Som de Game Over.wav"
+dest_files=["res://.godot/imported/Som de Game Over.wav-4c568d6b9843df795b55fc50ec6ed274.sample"]
 
 [params]
 
