@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://ffno3yc7fxcj"]
+
+[ext_resource type="PackedScene" uid="uid://ddyy3i4ufd410" path="res://piso/piso.tscn" id="1_epda7"]
+
+[node name="Jogo" type="Node2D" unique_id=1916974359]
+
+[node name="Piso" parent="." unique_id=412330445 instance=ExtResource("1_epda7")]
+position = Vector2(641, 359)
