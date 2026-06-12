@@ -1,8 +1,12 @@
 [gd_scene format=3 uid="uid://ffno3yc7fxcj"]
 
 [ext_resource type="PackedScene" uid="uid://ddyy3i4ufd410" path="res://piso/piso.tscn" id="1_epda7"]
+[ext_resource type="PackedScene" uid="uid://gsonc236nada" path="res://jogador/jogador.tscn" id="2_en0u0"]
 
 [node name="Jogo" type="Node2D" unique_id=1916974359]
 
 [node name="Piso" parent="." unique_id=412330445 instance=ExtResource("1_epda7")]
 position = Vector2(641, 359)
+
+[node name="Jogador" parent="." unique_id=873787231 instance=ExtResource("2_en0u0")]
+position = Vector2(572, 511)
