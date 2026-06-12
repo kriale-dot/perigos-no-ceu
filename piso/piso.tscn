@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://ddyy3i4ufd410"]
+
+[ext_resource type="Texture2D" uid="uid://bsr0d2m7kbevg" path="res://assets/sprites/objetos/piso.png" id="1_yjt17"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_jslq3"]
+size = Vector2(1276.5, 128)
+
+[node name="Piso" type="StaticBody2D" unique_id=412330445]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1560843331]
+texture = ExtResource("1_yjt17")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=458152097]
+position = Vector2(-0.25, 295)
+shape = SubResource("RectangleShape2D_jslq3")
